@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Batman #1",
+    "coverUrl": "https://example.com/batman.jpg",
+    "fileUrl": "https://example.com/batman.cbz",
+    "description": "The Dark Knight’s debut."
+  },
+  {
+    "title": "Spider-Man #5",
+    "coverUrl": "https://example.com/spiderman.jpg",
+    "fileUrl": "https://example.com/spiderman.cbz",
+    "description": "Classic Spidey adventure."
+  }
+]
