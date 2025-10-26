@@ -1,15 +1,8 @@
 [
   {
-    "title": "Komandant Mark-Ontarijski vukovi",
-    "coverUrl": "https://www.stripovi.com/naslovnice/Mark/KM_LU_1.jpg",
-    "fileUrl": "https://mega.nz/file/ErZE1ITT#tDa1i32b82YNPN30BzZc9YhR9BpnmIpQSCsdpHrxHQo",
-    "description": "Komandant Mark pozvan je na tajanstveni sastanak gdje ga na njegovo poveliko čuđenje dočekaju Englezi u zasjedi i neobičan par oca s dječakom. Kako se Mark sve više druži s spomenutom dvojicom, odnos između oca i sina sve je neobičniji. 
-    Pogledajte kako će legendarni Komandant Mark razriješiti situaciju i riješiti misterij štapa koji ubija!"
-  },
-  {
-    "title": "Spider-Man #5",
-    "coverUrl": "https://example.com/spiderman.jpg",
-    "fileUrl": "https://example.com/spiderman.cbz",
-    "description": "Classic Spidey adventure."
+    "Id": "dca6aec1e75b41da84751f620688a37e",
+    "Title": "Zagor-Povratak Kejna",
+    "CoverUrl": "https://www.stripovi.com/naslovnice/Zagor/ZG_ABA_1.jpg",
+    "Description": "Kainov povratak\rZagor\r\rZG LU 103/105 | 238 str.\r\rU potrazi za Jacquesom Lassalleom Zagor, Digging Bill i Chico odlaze dublje na afri\u010Dko tlo gdje ih o\u010Dekuju arapski trgovci robljem, pustinjski Tuarezi u potrazi za izgubljenim \u017Eezlom kraljice Tin-Hinan, stari prijatelj Kain koji dobiva novu misiju pronala\u017Eenja zaboravljenog grada antikne Atlantide te uza sve to na\u0161e prijatelje konstantno prati sjena mo\u0107nih crnih nekromanata Kusha!"
   }
 ]
